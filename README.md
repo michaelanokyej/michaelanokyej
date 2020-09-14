@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at michaelanokyej@yahoo.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://michaelanokye.com/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" height="100" />
+<img alt="Night Coding" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" height="140" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -29,10 +29,6 @@
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
 
 <br/>
-
-
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
