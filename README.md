@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 A Little About Me </h3>
 
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-💼 &nbsp; Working as a Software Analyst at Legal Geneal America.
-🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Big Data.
-✍️ &nbsp; Pursuing Graphic Design, Podcasting and Blog Writing as hobbies/side hustles.
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
+💼 &nbsp; Working as a Software Analyst at Legal General America.\
+🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Big Data.\
+✍️ &nbsp; Pursuing Graphic Design, Podcasting and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at michaelanokyej@yahoo.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://michaelanokye.com/) for more details about me. I'm open to feedback and suggestions!
