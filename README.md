@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at michaelanokyej@yahoo.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://michaelanokye.com/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" height="100" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,5 +50,3 @@
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael%20Anokye-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:michaelanokyej@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-michaelanokyej@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
