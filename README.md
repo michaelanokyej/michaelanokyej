@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 A Little About Me </h3>
 
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
-💼 &nbsp; Working as a Software Analyst at Legal General America.\
+💼 &nbsp; Working as a Software Engineer at Dallas Morning News.\
+👨🏾‍🏫 &nbsp; Teaching web development (MEAN & MERN).\
 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Big Data.\
 ✍️ &nbsp; Pursuing Graphic Design, Podcasting and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
