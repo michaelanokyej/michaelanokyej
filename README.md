@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![AWS]([https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript](https://img.shields.io/badge/aws-AWS-orange))&nbsp;
+![AWS](https://img.shields.io/badge/aws-AWS-orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
